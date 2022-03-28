@@ -1,0 +1,17 @@
+.todo {
+  position: relative;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.icon {
+  color: #00ff00;
+  position: absolute;
+  top: 0px;
+  right: 1px;
+  font-size: 40px;
+}
+
+.icon:hover{
+  color: #00db00;
+}
